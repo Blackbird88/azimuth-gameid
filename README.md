@@ -8,7 +8,7 @@ Adds command line support for launching games in Azimuth
 4. Copy the **azimuth_gameid.asi** next to **azimuth.exe**
 
 # Usage
-Azimuth.exe --gameid=ID (optionally --skip-launcher)
+```Azimuth.exe --gameid=ID (optionally --skip-launcher)```
 
 | Game                                   | ID       |
 |----------------------------------------|----------|
