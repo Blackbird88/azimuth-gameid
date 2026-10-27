@@ -1,4 +1,4 @@
-# azimuth-gameid
+# Azimuth-GameID
 Adds command line support for launching games in Azimuth
 
 # Installation
