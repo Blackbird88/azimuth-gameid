@@ -14,6 +14,7 @@ Adds command line support for launching games in Azimuth
 |----------------------------------------|----------|
 | Forza Horizon 2                        | 1A96545B |
 | Forza Horizon 2 Presents Fast & Furious| 5A9771A4 |
+| Forza Horizon 3                        | 4CE1DFAB |
 | Forza Motorsport 5                     | 7B35D917 |
 | Forza Motorsport 6                     | 64F9397E |
 
