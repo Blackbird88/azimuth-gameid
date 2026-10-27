@@ -18,7 +18,7 @@ Adds command line support for launching games in Azimuth
 | Forza Motorsport 6                     | 64F9397E |
 
 # Compatibility
-Tested with Azimuth 1.02
+Tested with Azimuth 1.0.2
 
 # Credits
 Claude AI for vibecoding this
